@@ -11,6 +11,6 @@ A PHP interface to the MOAC JSON-RPC API. All documented API functions are prese
     // do your thing
     echo $MOAC->net_version();
 
-See `demo-test.php` for a complete example. 
+See `demo-test.php` for a check availability;. 
 
 ## Function documentation
