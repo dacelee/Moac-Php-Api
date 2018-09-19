@@ -1,4 +1,4 @@
-# Moac-Php-Api
+# Moac-Php-Chain3-Api
 A PHP interface to the MOAC JSON-RPC API. All documented API functions are present.
 
 ## Usage
