@@ -1,6 +1,6 @@
 # Moac-Php-Chain3-Api
 A PHP interface to the MOAC JSON-RPC API. All documented API functions are present.
-
+PHP client for MOAC [Chain3 JSON RPC API](https://github.com/MOACChain/chain3).
 ## Usage
     // include the class file
     require 'moac.php';
