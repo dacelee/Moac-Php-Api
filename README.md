@@ -20,7 +20,7 @@ please modify the MOAC client port on line demo-test.php 24 lines 248 lines for 
 
 ## Implemented JSON-RPC methods
 * chain3_clientVersion
-* net_version
+* net_version 
 * net_listening
 * net_peerCount
 * mc_coinbase
