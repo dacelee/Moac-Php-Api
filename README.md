@@ -13,7 +13,7 @@ A PHP interface to the MOAC JSON-RPC API. All documented API functions are prese
 
 See `demo-test.php` for a check availability;. 
 
-Ifthe self-test fails
+If the self-test fails
 
 please modify the ink client port on line demo-test.php 24 lines 248 lines for your RPC port, if you use the test network, modify the chain3_client Version on 30 lines and the net_version on 40 lines.
 
