@@ -25,7 +25,7 @@ See `demo-test.php` for a check availability;.
 * mc_accounts
 * mc_blockNumber
 * mc_getBalance
-* mc_****
+* mc_*****
 
 Total 51 items
 
